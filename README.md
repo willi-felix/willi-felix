@@ -5,7 +5,7 @@
 <!-- Social Media Links -->
 <p align="center">
   <a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook.png" alt="LinkedIn" /></a>
+  <a href="https://facebook.com/taucoe0" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" alt="Facebook" /></a>
   <a href="https://stackoverflow.com/users/yourusername" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/stackoverflow.png" alt="StackOverflow" /></a>
 </p>
 
