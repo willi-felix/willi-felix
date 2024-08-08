@@ -1,6 +1,63 @@
-- 👋 Hi, I’m William Felix, You can call me William.
-- 👀 I’m interested in write code and learn things about programming.
-- 🌱 I’m currently learning Python, C++ and PHP.
-- 💞️ I’m looking to collaborate on Github.
-- 📫 If you want to contact me, please do so via email: demo3546.us@gmail.com
-- ⚡ Fun fact: I spend more time learning about programming than talking to my crush.
+<!-- Introduction -->
+<h1 align="center">Hi 👋, I'm William</h1>
+<h3 align="center">A passionate developer building innovative software solutions</h3>
+
+<!-- Social Media Links -->
+<p align="center">
+  <a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/yourusername" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/stackoverflow.png" alt="StackOverflow" /></a>
+  <a href="https://dev.to/yourusername" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/dev.png" alt="Dev.to" /></a>
+</p>
+
+<!-- About Me -->
+<p align="center">I am a software engineer specializing in full-stack development, creating robust and scalable applications.</p>
+
+<!-- Tech Stack -->
+<h3 align="center">🛠 Tech Stack</h3>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+</p>
+
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<!-- Projects -->
+<h3 align="center">🚀 Projects</h3>
+<p align="center">
+  <a href="https://github.com/yourusername/yourproject1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourproject1&theme=tokyonight" alt="Project 1" />
+  </a>
+  <a href="https://github.com/yourusername/yourproject2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourproject2&theme=tokyonight" alt="Project 2" />
+  </a>
+</p>
+
+<!-- Contribution Graph -->
+<h3 align="center">🌱 Contribution Graph</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+<!-- Contact -->
+<h3 align="center">📫 Contact Me</h3>
+<p align="center">
+  <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" /></a>
+</p>
+
+<!-- Footer -->
+<p align="center">⭐️ From [HBachh](https://github.com/yourusername)</p>
