@@ -39,7 +39,7 @@
 <!-- Contribution Graph -->
 <h3 align="center">🌱 Contribution Graph</h3>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=willi-felix&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 <!-- Contact -->
