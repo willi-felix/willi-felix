@@ -23,12 +23,10 @@
 <!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=william-felix&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=william-felix&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-felix&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=willi-felix&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=willi-felix&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willi-felix&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=willi-felix&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Top Languages" />
 
 <!-- Projects -->
 <h3 align="center">🚀 Projects</h3>
