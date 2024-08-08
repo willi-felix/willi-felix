@@ -16,15 +16,8 @@
 <h3 align="center">🛠 Tech Stack</h3>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
   <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
 </p>
 
 <!-- GitHub Stats -->
@@ -34,6 +27,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=william-felix&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-felix&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=willi-felix&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Top Languages" />
 
 <!-- Projects -->
 <h3 align="center">🚀 Projects</h3>
