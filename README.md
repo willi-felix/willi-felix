@@ -7,7 +7,7 @@
   <a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" /></a>
   <a href="https://stackoverflow.com/users/yourusername" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/stackoverflow.png" alt="StackOverflow" /></a>
-  <a href="https://dev.to/yourusername" target="blank"><img align="center" src="https://miguelsolorio.gallerycdn.vsassets.io/extensions/miguelsolorio/fluent-icons/0.0.18/1658854116627/Microsoft.VisualStudio.Services.Icons.Default" alt="Dev.to" /></a>
+  <a href="https://dev.to/yourusername" target="blank"><img align="center" src="https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="Dev.to" /></a>
 </p>
 
 <!-- About Me -->
