@@ -39,11 +39,8 @@
 <!-- Projects -->
 <h3 align="center">🚀 Projects</h3>
 <p align="center">
-  <a href="https://github.com/yourusername/yourproject1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourproject1&theme=tokyonight" alt="Project 1" />
-  </a>
-  <a href="https://github.com/yourusername/yourproject2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourproject2&theme=tokyonight" alt="Project 2" />
+  <a href="https://github.com/willi-felix/tdtv10" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=willi-felix&repo=tdtv101&theme=tokyonight" alt="TÍNH ĐIỂM THI VÀO 10" />
   </a>
 </p>
 
@@ -56,7 +53,7 @@
 <!-- Contact -->
 <h3 align="center">📫 Contact Me</h3>
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" /></a>
+  <a href="mailto:demo3546.us@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" /></a>
 </p>
 
 <!-- Footer -->
